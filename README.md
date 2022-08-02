@@ -1,1 +1,1 @@
-# Netflix-Movies-Clustering-using-K-Means-and-Classification-using-BERT-model
+# Netflix-Data-Clustering-and-Multi-Class-Classification-using-BERT-model
